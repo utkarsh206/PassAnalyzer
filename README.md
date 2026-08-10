@@ -106,16 +106,6 @@ PassAnalyzer/
 
 ---
 
-## 🔥 Future Improvements
-
-* 🌐 HaveIBeenPwned API integration
-* 📊 Crack-time estimation
-* 📁 Export reports (JSON / HTML)
-* 🎲 Password generator
-* 🖥️ GUI / Web version
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
