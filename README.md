@@ -30,11 +30,11 @@ Lightweight, fast, and easy to use, PassAnalyzer is ideal for **cybersecurity le
 
 ### ❌ Weak Password Example
 
-![Image Alt](image_url) 
+![Weak Password](screenshots/weak.png)
 
 ### ✅ Strong Password Example
 
-![Image Alt](image_url) 
+![Strong Password](screenshots/strong.png)
 
 ---
 
