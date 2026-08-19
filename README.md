@@ -13,7 +13,6 @@ Weak passwords are one of the most common security risks, and this tool helps id
 Lightweight, fast, and easy to use, PassGuardX is ideal for **cybersecurity learners, ethical hackers, and developers**.
 
 ---
-
 ## 🚀 Features
 
 * 🔑 Password strength analysis (Weak / Medium / Strong / Very Strong)
