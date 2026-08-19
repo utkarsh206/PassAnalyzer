@@ -12,7 +12,7 @@ DICT="/usr/share/dict/words"
 print_banner() {
 echo "${CYAN}"
 echo "╔══════════════════════════════╗"
-echo "║        PassGuardX            ║"
+echo "║        PassAnalyzer          ║"
 echo "║  Advanced Password Auditor   ║"
 echo "╚══════════════════════════════╝"
 echo "${RESET}"
