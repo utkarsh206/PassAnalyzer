@@ -1,4 +1,4 @@
-# 🔐 PassAnalyzer
+# 🔐 PassGuardX
 
 ### Advanced Password Strength Checker in Bash
 
