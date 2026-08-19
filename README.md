@@ -10,7 +10,7 @@
 
 Weak passwords are one of the most common security risks, and this tool helps identify them by providing clear feedback along with a strength rating from **Weak to Very Strong**.
 
-Lightweight, fast, and easy to use, PassAnalyzer is ideal for **cybersecurity learners, ethical hackers, and developers**.
+Lightweight, fast, and easy to use, PassGuardX is ideal for **cybersecurity learners, ethical hackers, and developers**.
 
 ---
 
