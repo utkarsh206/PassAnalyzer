@@ -1,5 +1,3 @@
-![PassGuardX](https://raw.githubusercontent.com/utkarsh206/PassGuardX/main/assets/thumbnail.png)
-
 # 🔐 PassGuardX
 
 ### Advanced Password Strength Checker in Bash
