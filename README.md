@@ -41,7 +41,7 @@ Lightweight, fast, and easy to use, PassGuardX is ideal for **cybersecurity lear
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/PassGuardX.git
+git clone https://github.com/utkarsh206/PassGuardX.git
 cd PassGuardX
 chmod +x passguardx.sh
 ```
