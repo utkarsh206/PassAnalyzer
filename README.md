@@ -6,7 +6,7 @@
 
 ## 🔐 Introduction
 
-**PassAnalyzer** is a powerful Bash-based password strength checker designed to evaluate the security of passwords using multiple analysis techniques. It calculates entropy, detects common patterns, and checks against dictionary words to provide an accurate strength score.
+**PassGuardX** is a powerful Bash-based password strength checker designed to evaluate the security of passwords using multiple analysis techniques. It calculates entropy, detects common patterns, and checks against dictionary words to provide an accurate strength score.
 
 Weak passwords are one of the most common security risks, and this tool helps identify them by providing clear feedback along with a strength rating from **Weak to Very Strong**.
 
@@ -41,9 +41,9 @@ Lightweight, fast, and easy to use, PassAnalyzer is ideal for **cybersecurity le
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/PassAnalyzer.git
-cd PassAnalyzer
-chmod +x passanalyzer.sh
+git clone https://github.com/your-username/PassGuardX.git
+cd PassGuardX
+chmod +x passguardx.sh
 ```
 
 ---
@@ -53,13 +53,13 @@ chmod +x passanalyzer.sh
 ### 🔹 Interactive Mode
 
 ```bash
-./passanalyzer.sh
+./passguardx.sh
 ```
 
 ### 🔹 Direct Password Input
 
 ```bash
-./passanalyzer.sh -p "YourPassword123!"
+./passguardx.sh -p "YourPassword123!"
 ```
 
 ---
@@ -79,8 +79,8 @@ Strength: Very Strong
 ## 📂 Project Structure
 
 ```bash
-PassAnalyzer/
-│── passanalyzer.sh
+PassGuardX/
+│── passguardx.sh
 │── README.md
 │── screenshots/
 │    ├── weak.png
